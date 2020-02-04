@@ -7,7 +7,4 @@ Here is the shell:
 sqlite3 ~/Library/Application\\ Support/Dock/desktoppicture.db "update data set value = '$1'" && killall Dock
 ```
 ## Something to say
-I don't know how to make this script run in background. Maybe some days later, I can write that.
-
-
-
+I don't know how to make this script run in background. Maybe some days later.
